@@ -1,0 +1,1127 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 1,
+      "name": "مُحَمَّد",
+      "transliteration": "Muḥammad",
+      "en": {
+        "meaning": "Highly Praised"
+      },
+      "ur": {
+        "meaning": "تعریف والا"
+      }
+    },
+    {
+      "number": 2,
+      "name": "أَحْمَد",
+      "transliteration": "Aḥmad",
+      "en": {
+        "meaning": "Most Commendable"
+      },
+      "ur": {
+        "meaning": "سب سے زیادہ حمد کرنے والا"
+      }
+    },
+    {
+      "number": 3,
+      "name": "حَامِد",
+      "transliteration": "Ḥāmid",
+      "en": {
+        "meaning": "Praising"
+      },
+      "ur": {
+        "meaning": "سراہنے والا"
+      }
+    },
+    {
+      "number": 4,
+      "name": "مَحْمُود",
+      "transliteration": "Maḥmūd",
+      "en": {
+        "meaning": "Praised"
+      },
+      "ur": {
+        "meaning": "سراہا گیا"
+      }
+    },
+    {
+      "number": 5,
+      "name": "قَاسِم",
+      "transliteration": "Qāsim",
+      "en": {
+        "meaning": "Distributor"
+      },
+      "ur": {
+        "meaning": "بانٹنے والا"
+      }
+    },
+    {
+      "number": 6,
+      "name": "عَاقِب",
+      "transliteration": "ʿĀqib",
+      "en": {
+        "meaning": "The Last, The Following"
+      },
+      "ur": {
+        "meaning": "پیچھے آنے والا"
+      }
+    },
+    {
+      "number": 7,
+      "name": "فَاتِح",
+      "transliteration": "Fātiḥ",
+      "en": {
+        "meaning": "Conqueror, Opener"
+      },
+      "ur": {
+        "meaning": "کھولنے والا"
+      }
+    },
+    {
+      "number": 8,
+      "name": "شَاهِد",
+      "transliteration": "Shāhid",
+      "en": {
+        "meaning": "Witness"
+      },
+      "ur": {
+        "meaning": "گواہی دینے والا"
+      }
+    },
+    {
+      "number": 9,
+      "name": "حَاشِر",
+      "transliteration": "Ḥāshir",
+      "en": {
+        "meaning": "Who Gathers People"
+      },
+      "ur": {
+        "meaning": "اٹھنے والا"
+      }
+    },
+    {
+      "number": 10,
+      "name": "رَشِيد",
+      "transliteration": "Rashīd",
+      "en": {
+        "meaning": "Well Guided"
+      },
+      "ur": {
+        "meaning": "نیک"
+      }
+    },
+    {
+      "number": 11,
+      "name": "مَشْهُود",
+      "transliteration": "Mashhūd",
+      "en": {
+        "meaning": "Witnessed"
+      },
+      "ur": {
+        "meaning": "گواہی دیا گیا"
+      }
+    },
+    {
+      "number": 12,
+      "name": "بَشِير",
+      "transliteration": "Bashīr",
+      "en": {
+        "meaning": "Bringer of Good Tidings"
+      },
+      "ur": {
+        "meaning": "خوشخبری دینے والا"
+      }
+    },
+    {
+      "number": 13,
+      "name": "نَذِير",
+      "transliteration": "Nadhīr",
+      "en": {
+        "meaning": "Warner"
+      },
+      "ur": {
+        "meaning": "ڈرانے والا"
+      }
+    },
+    {
+      "number": 14,
+      "name": "دَاعٍ",
+      "transliteration": "Dāʿī",
+      "en": {
+        "meaning": "Caller"
+      },
+      "ur": {
+        "meaning": "بلانے والا"
+      }
+    },
+    {
+      "number": 15,
+      "name": "شَافٍ",
+      "transliteration": "Shāfī",
+      "en": {
+        "meaning": "Healer"
+      },
+      "ur": {
+        "meaning": "شفا دینے والا"
+      }
+    },
+    {
+      "number": 16,
+      "name": "هَادٍ",
+      "transliteration": "Hādī",
+      "en": {
+        "meaning": "He Who Guides Right"
+      },
+      "ur": {
+        "meaning": "ہادی"
+      }
+    },
+    {
+      "number": 17,
+      "name": "مَهْدِيّ",
+      "transliteration": "Mahdī",
+      "en": {
+        "meaning": "He Who Is Well Guided"
+      },
+      "ur": {
+        "meaning": "ہدایت والا"
+      }
+    },
+    {
+      "number": 18,
+      "name": "مَاحٍ",
+      "transliteration": "Māḥī",
+      "en": {
+        "meaning": "He Who Wipes Out (Disbelief)"
+      },
+      "ur": {
+        "meaning": "محو کرنے والا"
+      }
+    },
+    {
+      "number": 19,
+      "name": "مُنْجٍ",
+      "transliteration": "Munjī",
+      "en": {
+        "meaning": "He Who Saves, Deliverer"
+      },
+      "ur": {
+        "meaning": "نجات والا"
+      }
+    },
+    {
+      "number": 20,
+      "name": "نَاهٍ",
+      "transliteration": "Nāhī",
+      "en": {
+        "meaning": "Who Forbids (Evil)"
+      },
+      "ur": {
+        "meaning": "منع کرنے والا"
+      }
+    },
+    {
+      "number": 21,
+      "name": "رَسُول",
+      "transliteration": "Rasūl",
+      "en": {
+        "meaning": "Messenger"
+      },
+      "ur": {
+        "meaning": "رسول"
+      }
+    },
+    {
+      "number": 22,
+      "name": "نَبِيّ",
+      "transliteration": "Nabī",
+      "en": {
+        "meaning": "Prophet"
+      },
+      "ur": {
+        "meaning": "نبی"
+      }
+    },
+    {
+      "number": 23,
+      "name": "أُمِّيّ",
+      "transliteration": "Ummī",
+      "en": {
+        "meaning": "Unlettered"
+      },
+      "ur": {
+        "meaning": "ان پڑھ"
+      }
+    },
+    {
+      "number": 24,
+      "name": "تِهَامِيّ",
+      "transliteration": "Tihāmī",
+      "en": {
+        "meaning": "From Tihamah"
+      },
+      "ur": {
+        "meaning": "تہامی"
+      }
+    },
+    {
+      "number": 25,
+      "name": "هَاشِمِيّ",
+      "transliteration": "Hāshimī",
+      "en": {
+        "meaning": "From the Family of Hashim"
+      },
+      "ur": {
+        "meaning": "ہاشمی"
+      }
+    },
+    {
+      "number": 26,
+      "name": "أَبْطَحِيّ",
+      "transliteration": "Abṭaḥī",
+      "en": {
+        "meaning": "Belonging to al-Batha"
+      },
+      "ur": {
+        "meaning": "ابطح والا"
+      }
+    },
+    {
+      "number": 27,
+      "name": "عَزِيز",
+      "transliteration": "ʿAzīz",
+      "en": {
+        "meaning": "Noble, Dear"
+      },
+      "ur": {
+        "meaning": "غالب"
+      }
+    },
+    {
+      "number": 28,
+      "name": "حَرِيصٌ عَلَيْكُم",
+      "transliteration": "Ḥarīṣun ʿAlaykum",
+      "en": {
+        "meaning": "Full of Concern for You"
+      },
+      "ur": {
+        "meaning": "حرص کرنے والا (لوگوں کے ایمان کے لیے)"
+      }
+    },
+    {
+      "number": 29,
+      "name": "رَءُوف",
+      "transliteration": "Raʾūf",
+      "en": {
+        "meaning": "Mild, Kind"
+      },
+      "ur": {
+        "meaning": "نرم دل"
+      }
+    },
+    {
+      "number": 30,
+      "name": "رَحِيم",
+      "transliteration": "Raḥīm",
+      "en": {
+        "meaning": "Merciful"
+      },
+      "ur": {
+        "meaning": "رحم والا"
+      }
+    },
+    {
+      "number": 31,
+      "name": "طٰهٰ",
+      "transliteration": "Ṭā-Hā",
+      "en": {
+        "meaning": "Ta-Ha (Surah 20:1)"
+      },
+      "ur": {
+        "meaning": "طٰہٰ"
+      }
+    },
+    {
+      "number": 32,
+      "name": "مُجْتَبٰى",
+      "transliteration": "Mujtabā",
+      "en": {
+        "meaning": "Elect"
+      },
+      "ur": {
+        "meaning": "چنا ہوا"
+      }
+    },
+    {
+      "number": 33,
+      "name": "طٰسٓ",
+      "transliteration": "Ṭā-Sīn",
+      "en": {
+        "meaning": "Ta-Sin (Surah 27:1)"
+      },
+      "ur": {
+        "meaning": "طٰسٓ"
+      }
+    },
+    {
+      "number": 34,
+      "name": "مُرْتَضٰى",
+      "transliteration": "Murtaḍā",
+      "en": {
+        "meaning": "Content, Approved"
+      },
+      "ur": {
+        "meaning": "برگزیدہ"
+      }
+    },
+    {
+      "number": 35,
+      "name": "حٰمٓ",
+      "transliteration": "Ḥā-Mīm",
+      "en": {
+        "meaning": "Ha-Mim (beginning of Surahs 40–46)"
+      },
+      "ur": {
+        "meaning": "حٰمٓ"
+      }
+    },
+    {
+      "number": 36,
+      "name": "مُصْطَفٰى",
+      "transliteration": "Muṣṭafā",
+      "en": {
+        "meaning": "Chosen"
+      },
+      "ur": {
+        "meaning": "چنا ہوا"
+      }
+    },
+    {
+      "number": 37,
+      "name": "يٰسٓ",
+      "transliteration": "Yā-Sīn",
+      "en": {
+        "meaning": "Ya-Sin (Surah 36:1)"
+      },
+      "ur": {
+        "meaning": "یٰسٓ"
+      }
+    },
+    {
+      "number": 38,
+      "name": "أَوْلٰى",
+      "transliteration": "Awlā",
+      "en": {
+        "meaning": "Worthier, Most Worthy"
+      },
+      "ur": {
+        "meaning": "بہتر"
+      }
+    },
+    {
+      "number": 39,
+      "name": "مُزَّمِّل",
+      "transliteration": "Muzzammil",
+      "en": {
+        "meaning": "Wrapped"
+      },
+      "ur": {
+        "meaning": "کملی والا"
+      }
+    },
+    {
+      "number": 40,
+      "name": "وَلِيّ",
+      "transliteration": "Walī",
+      "en": {
+        "meaning": "Friend"
+      },
+      "ur": {
+        "meaning": "دوست"
+      }
+    },
+    {
+      "number": 41,
+      "name": "مُدَّثِّر",
+      "transliteration": "Muddaththir",
+      "en": {
+        "meaning": "Covered (Cloaked)"
+      },
+      "ur": {
+        "meaning": "چادر اوڑھنے والا"
+      }
+    },
+    {
+      "number": 42,
+      "name": "مَتِين",
+      "transliteration": "Matīn",
+      "en": {
+        "meaning": "Firm"
+      },
+      "ur": {
+        "meaning": "مضبوط"
+      }
+    },
+    {
+      "number": 43,
+      "name": "مُصَدِّق",
+      "transliteration": "Muṣaddiq",
+      "en": {
+        "meaning": "Who Declares for True"
+      },
+      "ur": {
+        "meaning": "سچ بولنے والا"
+      }
+    },
+    {
+      "number": 44,
+      "name": "طَيِّب",
+      "transliteration": "Ṭayyib",
+      "en": {
+        "meaning": "Good, Pure"
+      },
+      "ur": {
+        "meaning": "پاک"
+      }
+    },
+    {
+      "number": 45,
+      "name": "نَاصِر",
+      "transliteration": "Nāṣir",
+      "en": {
+        "meaning": "Helper"
+      },
+      "ur": {
+        "meaning": "مدد دینے والا"
+      }
+    },
+    {
+      "number": 46,
+      "name": "مَنْصُور",
+      "transliteration": "Manṣūr",
+      "en": {
+        "meaning": "Helped (by God), Victorious"
+      },
+      "ur": {
+        "meaning": "مدد دیا گیا"
+      }
+    },
+    {
+      "number": 47,
+      "name": "مِصْبَاح",
+      "transliteration": "Miṣbāḥ",
+      "en": {
+        "meaning": "Lamp"
+      },
+      "ur": {
+        "meaning": "چراغ"
+      }
+    },
+    {
+      "number": 48,
+      "name": "آمِر",
+      "transliteration": "Āmir",
+      "en": {
+        "meaning": "Commander"
+      },
+      "ur": {
+        "meaning": "حکم دینے والا"
+      }
+    },
+    {
+      "number": 49,
+      "name": "حِجَازِيّ",
+      "transliteration": "Ḥijāzī",
+      "en": {
+        "meaning": "From the Hijaz"
+      },
+      "ur": {
+        "meaning": "حجاز والا"
+      }
+    },
+    {
+      "number": 50,
+      "name": "نِزَارِيّ",
+      "transliteration": "Nizārī",
+      "en": {
+        "meaning": "From the Tribe of Nizar"
+      },
+      "ur": {
+        "meaning": "مضر بن نزار کی اولاد سے"
+      }
+    },
+    {
+      "number": 51,
+      "name": "قُرَشِيّ",
+      "transliteration": "Qurashī",
+      "en": {
+        "meaning": "From the Clan of Quraysh"
+      },
+      "ur": {
+        "meaning": "قریشی"
+      }
+    },
+    {
+      "number": 52,
+      "name": "مُضَرِيّ",
+      "transliteration": "Muḍarī",
+      "en": {
+        "meaning": "From the Tribe of Mudar"
+      },
+      "ur": {
+        "meaning": "مضر والا"
+      }
+    },
+    {
+      "number": 53,
+      "name": "نَبِيُّ التَّوْبَة",
+      "transliteration": "Nabī at-Tawbah",
+      "en": {
+        "meaning": "The Prophet of Repentance"
+      },
+      "ur": {
+        "meaning": "متوجہ ہونے والا نبی"
+      }
+    },
+    {
+      "number": 54,
+      "name": "حَافِظ",
+      "transliteration": "Ḥāfiẓ",
+      "en": {
+        "meaning": "Preserver"
+      },
+      "ur": {
+        "meaning": "یاد رکھنے والا"
+      }
+    },
+    {
+      "number": 55,
+      "name": "كَامِل",
+      "transliteration": "Kāmil",
+      "en": {
+        "meaning": "Perfect"
+      },
+      "ur": {
+        "meaning": "کامل (پورا)"
+      }
+    },
+    {
+      "number": 56,
+      "name": "صَادِق",
+      "transliteration": "Ṣādiq",
+      "en": {
+        "meaning": "Truthful, Sincere"
+      },
+      "ur": {
+        "meaning": "سچا"
+      }
+    },
+    {
+      "number": 57,
+      "name": "أَمِين",
+      "transliteration": "Amīn",
+      "en": {
+        "meaning": "Trustworthy"
+      },
+      "ur": {
+        "meaning": "امانت دار"
+      }
+    },
+    {
+      "number": 58,
+      "name": "عَبْدُ الله",
+      "transliteration": "ʿAbdullāh",
+      "en": {
+        "meaning": "Servant of Allah"
+      },
+      "ur": {
+        "meaning": "اللہ کا بندہ"
+      }
+    },
+    {
+      "number": 59,
+      "name": "كَلِيمُ الله",
+      "transliteration": "Kalīmullāh",
+      "en": {
+        "meaning": "He to Whom Allah Has Spoken"
+      },
+      "ur": {
+        "meaning": "اللہ سے کلام کرنے والا"
+      }
+    },
+    {
+      "number": 60,
+      "name": "حَبِيبُ الله",
+      "transliteration": "Ḥabībullāh",
+      "en": {
+        "meaning": "Beloved of Allah"
+      },
+      "ur": {
+        "meaning": "اللہ کا دوست"
+      }
+    },
+    {
+      "number": 61,
+      "name": "نَجِيُّ الله",
+      "transliteration": "Najiyyullāh",
+      "en": {
+        "meaning": "Allah's Intimate Friend"
+      },
+      "ur": {
+        "meaning": "اللہ کا رازدار"
+      }
+    },
+    {
+      "number": 62,
+      "name": "صَفِيُّ الله",
+      "transliteration": "Ṣafiyyullāh",
+      "en": {
+        "meaning": "Allah's Sincere Friend"
+      },
+      "ur": {
+        "meaning": "اللہ کا مخلص دوست"
+      }
+    },
+    {
+      "number": 63,
+      "name": "خَاتَمُ الْأَنْبِيَاء",
+      "transliteration": "Khātam al-Anbiyāʾ",
+      "en": {
+        "meaning": "Seal of the Prophets"
+      },
+      "ur": {
+        "meaning": "انبیاء کو ختم کرنے والا"
+      }
+    },
+    {
+      "number": 64,
+      "name": "حَسِيب",
+      "transliteration": "Ḥasīb",
+      "en": {
+        "meaning": "Respected, Noble"
+      },
+      "ur": {
+        "meaning": "کافی"
+      }
+    },
+    {
+      "number": 65,
+      "name": "مُجِيب",
+      "transliteration": "Mujīb",
+      "en": {
+        "meaning": "Responding, Answering"
+      },
+      "ur": {
+        "meaning": "قبول کرنے والا"
+      }
+    },
+    {
+      "number": 66,
+      "name": "شَكُور",
+      "transliteration": "Shakūr",
+      "en": {
+        "meaning": "Most Grateful"
+      },
+      "ur": {
+        "meaning": "شکر گزار"
+      }
+    },
+    {
+      "number": 67,
+      "name": "مُقْتَصِد",
+      "transliteration": "Muqtaṣid",
+      "en": {
+        "meaning": "Adopting a Middle Course"
+      },
+      "ur": {
+        "meaning": "میانہ روی سکھلانے والا"
+      }
+    },
+    {
+      "number": 68,
+      "name": "رَسُولُ الرَّحْمَة",
+      "transliteration": "Rasūl ar-Raḥmah",
+      "en": {
+        "meaning": "The Messenger of Mercy"
+      },
+      "ur": {
+        "meaning": "مہربانی والا رسول"
+      }
+    },
+    {
+      "number": 69,
+      "name": "قَوِيّ",
+      "transliteration": "Qawī",
+      "en": {
+        "meaning": "Strong"
+      },
+      "ur": {
+        "meaning": "طاقت والا"
+      }
+    },
+    {
+      "number": 70,
+      "name": "حَفِيّ",
+      "transliteration": "Ḥafī",
+      "en": {
+        "meaning": "Well-Informed"
+      },
+      "ur": {
+        "meaning": "خبر رکھنے والا"
+      }
+    },
+    {
+      "number": 71,
+      "name": "مَأْمُون",
+      "transliteration": "Maʾmūn",
+      "en": {
+        "meaning": "Trusted"
+      },
+      "ur": {
+        "meaning": "امن والا"
+      }
+    },
+    {
+      "number": 72,
+      "name": "مَعْلُوم",
+      "transliteration": "Maʿlūm",
+      "en": {
+        "meaning": "Well-Known"
+      },
+      "ur": {
+        "meaning": "علم والا"
+      }
+    },
+    {
+      "number": 73,
+      "name": "حَقّ",
+      "transliteration": "Ḥaqq",
+      "en": {
+        "meaning": "Truth"
+      },
+      "ur": {
+        "meaning": "سچا"
+      }
+    },
+    {
+      "number": 74,
+      "name": "مُبِين",
+      "transliteration": "Mubīn",
+      "en": {
+        "meaning": "Clear, Evident"
+      },
+      "ur": {
+        "meaning": "ظاہر"
+      }
+    },
+    {
+      "number": 75,
+      "name": "مُطِيع",
+      "transliteration": "Muṭīʿ",
+      "en": {
+        "meaning": "Obedient"
+      },
+      "ur": {
+        "meaning": "تابع دار"
+      }
+    },
+    {
+      "number": 76,
+      "name": "أَوَّل",
+      "transliteration": "Awwal",
+      "en": {
+        "meaning": "First"
+      },
+      "ur": {
+        "meaning": "اول"
+      }
+    },
+    {
+      "number": 77,
+      "name": "آخِر",
+      "transliteration": "Ākhir",
+      "en": {
+        "meaning": "Last"
+      },
+      "ur": {
+        "meaning": "پیچھے"
+      }
+    },
+    {
+      "number": 78,
+      "name": "ظَاهِر",
+      "transliteration": "Ẓāhir",
+      "en": {
+        "meaning": "Outward, External"
+      },
+      "ur": {
+        "meaning": "ظاہر"
+      }
+    },
+    {
+      "number": 79,
+      "name": "بَاطِن",
+      "transliteration": "Bāṭin",
+      "en": {
+        "meaning": "Internal, Inner"
+      },
+      "ur": {
+        "meaning": "پوشیدہ"
+      }
+    },
+    {
+      "number": 80,
+      "name": "يَتِيم",
+      "transliteration": "Yatīm",
+      "en": {
+        "meaning": "Orphan"
+      },
+      "ur": {
+        "meaning": "یتیم"
+      }
+    },
+    {
+      "number": 81,
+      "name": "كَرِيم",
+      "transliteration": "Karīm",
+      "en": {
+        "meaning": "Generous"
+      },
+      "ur": {
+        "meaning": "سخی"
+      }
+    },
+    {
+      "number": 82,
+      "name": "حَكِيم",
+      "transliteration": "Ḥakīm",
+      "en": {
+        "meaning": "Wise, Judicious"
+      },
+      "ur": {
+        "meaning": "حکمت والا"
+      }
+    },
+    {
+      "number": 83,
+      "name": "سَيِّد",
+      "transliteration": "Sayyid",
+      "en": {
+        "meaning": "Leader, Master"
+      },
+      "ur": {
+        "meaning": "سردار"
+      }
+    },
+    {
+      "number": 84,
+      "name": "سِرَاج",
+      "transliteration": "Sirāj",
+      "en": {
+        "meaning": "Lamp"
+      },
+      "ur": {
+        "meaning": "چراغ"
+      }
+    },
+    {
+      "number": 85,
+      "name": "مُنِير",
+      "transliteration": "Munīr",
+      "en": {
+        "meaning": "Radiant"
+      },
+      "ur": {
+        "meaning": "چمکتا ہوا"
+      }
+    },
+    {
+      "number": 86,
+      "name": "مُحَرَّم",
+      "transliteration": "Muḥarram",
+      "en": {
+        "meaning": "Sacred, Inviolable"
+      },
+      "ur": {
+        "meaning": "قابل عزت"
+      }
+    },
+    {
+      "number": 87,
+      "name": "مُكَرَّم",
+      "transliteration": "Mukarram",
+      "en": {
+        "meaning": "Honored, Venerated"
+      },
+      "ur": {
+        "meaning": "عزت والا"
+      }
+    },
+    {
+      "number": 88,
+      "name": "مُبَشِّر",
+      "transliteration": "Mubashshir",
+      "en": {
+        "meaning": "Bringer of Good News"
+      },
+      "ur": {
+        "meaning": "خوشخبری سنانے والا"
+      }
+    },
+    {
+      "number": 89,
+      "name": "مُذَكِّر",
+      "transliteration": "Mudhakkir",
+      "en": {
+        "meaning": "Who Reminds, Preacher"
+      },
+      "ur": {
+        "meaning": "نصیحت کرنے والا"
+      }
+    },
+    {
+      "number": 90,
+      "name": "مُطَهَّر",
+      "transliteration": "Muṭahhar",
+      "en": {
+        "meaning": "Purified"
+      },
+      "ur": {
+        "meaning": "پاکیزہ"
+      }
+    },
+    {
+      "number": 91,
+      "name": "قَرِيب",
+      "transliteration": "Qarīb",
+      "en": {
+        "meaning": "Near"
+      },
+      "ur": {
+        "meaning": "قریب"
+      }
+    },
+    {
+      "number": 92,
+      "name": "خَلِيل",
+      "transliteration": "Khalīl",
+      "en": {
+        "meaning": "Close Friend"
+      },
+      "ur": {
+        "meaning": "دوست جانی"
+      }
+    },
+    {
+      "number": 93,
+      "name": "مَدْعُوّ",
+      "transliteration": "Madʿū",
+      "en": {
+        "meaning": "Who Is Called"
+      },
+      "ur": {
+        "meaning": "دعوت دیا ہوا"
+      }
+    },
+    {
+      "number": 94,
+      "name": "جَوَّاد",
+      "transliteration": "Jawwād",
+      "en": {
+        "meaning": "Generous, Magnanimous"
+      },
+      "ur": {
+        "meaning": "سخی"
+      }
+    },
+    {
+      "number": 95,
+      "name": "خَاتِم",
+      "transliteration": "Khātim",
+      "en": {
+        "meaning": "Seal"
+      },
+      "ur": {
+        "meaning": "ختم کرنے والا"
+      }
+    },
+    {
+      "number": 96,
+      "name": "عَادِل",
+      "transliteration": "ʿĀdil",
+      "en": {
+        "meaning": "Just"
+      },
+      "ur": {
+        "meaning": "عدل کرنے والا"
+      }
+    },
+    {
+      "number": 97,
+      "name": "شَهِير",
+      "transliteration": "Shahīr",
+      "en": {
+        "meaning": "Well-Known, Renowned"
+      },
+      "ur": {
+        "meaning": "شہرت والا"
+      }
+    },
+    {
+      "number": 98,
+      "name": "شَهِيد",
+      "transliteration": "Shahīd",
+      "en": {
+        "meaning": "Witnessing, Martyr"
+      },
+      "ur": {
+        "meaning": "گواہ"
+      }
+    },
+    {
+      "number": 99,
+      "name": "رَسُولُ الْمَلَاحِم",
+      "transliteration": "Rasūl al-Malāḥim",
+      "en": {
+        "meaning": "The Messenger of the Great Battles"
+      },
+      "ur": {
+        "meaning": "رسول الملاحم"
+      }
+    }
+  ],
+  "additional": [
+    {
+      "name": "رَسُولُ الرَّاحَة",
+      "transliteration": "Rasūl ar-Rāḥah",
+      "en": {
+        "meaning": "The Messenger of Comfort"
+      },
+      "ur": {
+        "meaning": "راحت والا رسول"
+      }
+    },
+    {
+      "name": "نَبِيُّ الرَّحْمَة",
+      "transliteration": "Nabī ar-Raḥmah",
+      "en": {
+        "meaning": "The Prophet of Mercy"
+      },
+      "ur": {
+        "meaning": "مہربانی والا نبی"
+      }
+    },
+    {
+      "name": "خَاتَمُ الرُّسُل",
+      "transliteration": "Khātam ar-Rusul",
+      "en": {
+        "meaning": "Seal of the Messengers"
+      },
+      "ur": {
+        "meaning": "رسولوں کو ختم کرنے والا"
+      }
+    }
+  ]
+}
