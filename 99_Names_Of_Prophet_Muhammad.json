@@ -10,8 +10,35 @@
         "meaning": "Highly Praised"
       },
       "ur": {
-        "meaning": "تعریف والا"
-      }
+        "meaning": "بہت زیادہ تعریف کیا گیا"
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-i-Imran 3:144",
+          "text": "وما محمد إلا رسول"
+        },
+        {
+          "type": "quran",
+          "source": "Al-Ahzab 33:40",
+          "text": "ما كان محمد أبا أحد من رجالكم ولكن رسول الله وخاتم النبيين"
+        },
+        {
+          "type": "quran",
+          "source": "Muhammad 47:2",
+          "text": "وآمنوا بما نزل على محمد"
+        },
+        {
+          "type": "quran",
+          "source": "Al-Fath 48:29",
+          "text": "محمد رسول الله"
+        },
+        {
+          "type": "hadith",
+          "source": "Sahih al-Bukhari 3532, 4896; Sahih Muslim 2354",
+          "text": "أنا محمد وأنا أحمد وأنا الماحي الذي يمحو الله بي الكفر وأنا الحاشر الذي يحشر الناس على قدمي وأنا العاقب"
+        }
+      ]
     },
     {
       "number": 2,
@@ -22,7 +49,19 @@
       },
       "ur": {
         "meaning": "سب سے زیادہ حمد کرنے والا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "As-Saff 61:6",
+          "text": "ومبشرا برسول يأتي من بعدي اسمه أحمد"
+        },
+        {
+          "type": "hadith",
+          "source": "Sahih al-Bukhari 3532, 4896; Sahih Muslim 2354",
+          "text": "أنا محمد وأنا أحمد وأنا الماحي الذي يمحو الله بي الكفر وأنا الحاشر الذي يحشر الناس على قدمي وأنا العاقب"
+        }
+      ]
     },
     {
       "number": 3,
@@ -33,7 +72,8 @@
       },
       "ur": {
         "meaning": "سراہنے والا"
-      }
+      },
+      "references": []
     },
     {
       "number": 4,
@@ -44,7 +84,15 @@
       },
       "ur": {
         "meaning": "سراہا گیا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Isra 17:79",
+          "text": "عسى أن يبعثك ربك مقاما محمودا",
+          "note": "The 'Praised Station' (al-Maqam al-Mahmud)"
+        }
+      ]
     },
     {
       "number": 5,
@@ -55,7 +103,14 @@
       },
       "ur": {
         "meaning": "بانٹنے والا"
-      }
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Sahih al-Bukhari 71; Sahih Muslim 1037",
+          "text": "وإنما أنا قاسم والله يعطي"
+        }
+      ]
     },
     {
       "number": 6,
@@ -66,7 +121,14 @@
       },
       "ur": {
         "meaning": "پیچھے آنے والا"
-      }
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Sahih al-Bukhari 3532, 4896; Sahih Muslim 2354",
+          "text": "أنا محمد وأنا أحمد وأنا الماحي الذي يمحو الله بي الكفر وأنا الحاشر الذي يحشر الناس على قدمي وأنا العاقب"
+        }
+      ]
     },
     {
       "number": 7,
@@ -77,7 +139,19 @@
       },
       "ur": {
         "meaning": "کھولنے والا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Fath 48:1",
+          "text": "إنا فتحنا لك فتحا مبينا"
+        },
+        {
+          "type": "quran",
+          "source": "An-Nasr 110:1",
+          "text": "إذا جاء نصر الله والفتح"
+        }
+      ]
     },
     {
       "number": 8,
@@ -88,18 +162,37 @@
       },
       "ur": {
         "meaning": "گواہی دینے والا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Ahzab 33:45",
+          "text": "يا أيها النبي إنا أرسلناك شاهدا ومبشرا ونذيرا"
+        },
+        {
+          "type": "quran",
+          "source": "Al-Fath 48:8",
+          "text": "إنا أرسلناك شاهدا ومبشرا ونذيرا"
+        }
+      ]
     },
     {
       "number": 9,
       "name": "حَاشِر",
       "transliteration": "Ḥāshir",
       "en": {
-        "meaning": "Who Gathers People"
+        "meaning": "The Gatherer (people are gathered after him)"
       },
       "ur": {
-        "meaning": "اٹھنے والا"
-      }
+        "meaning": "جمع کرنے والا (جس کے قدموں پر لوگ جمع کیے جائیں گے)"
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Sahih al-Bukhari 3532, 4896; Sahih Muslim 2354",
+          "text": "أنا محمد وأنا أحمد وأنا الماحي الذي يمحو الله بي الكفر وأنا الحاشر الذي يحشر الناس على قدمي وأنا العاقب"
+        }
+      ]
     },
     {
       "number": 10,
@@ -109,8 +202,9 @@
         "meaning": "Well Guided"
       },
       "ur": {
-        "meaning": "نیک"
-      }
+        "meaning": "ہدایت یافتہ"
+      },
+      "references": []
     },
     {
       "number": 11,
@@ -120,8 +214,16 @@
         "meaning": "Witnessed"
       },
       "ur": {
-        "meaning": "گواہی دیا گیا"
-      }
+        "meaning": "جس کی گواہی دی گئی"
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Buruj 85:3",
+          "text": "وشاهد ومشهود",
+          "note": "Some exegetes apply this to the Prophet; most apply it to Friday and the Day of Arafah or the Day of Judgement."
+        }
+      ]
     },
     {
       "number": 12,
@@ -132,7 +234,24 @@
       },
       "ur": {
         "meaning": "خوشخبری دینے والا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Baqarah 2:119",
+          "text": "إنا أرسلناك بالحق بشيرا ونذيرا"
+        },
+        {
+          "type": "quran",
+          "source": "Saba 34:28",
+          "text": "وما أرسلناك إلا كافة للناس بشيرا ونذيرا"
+        },
+        {
+          "type": "quran",
+          "source": "Al-Ahzab 33:45",
+          "text": "يا أيها النبي إنا أرسلناك شاهدا ومبشرا ونذيرا"
+        }
+      ]
     },
     {
       "number": 13,
@@ -143,7 +262,29 @@
       },
       "ur": {
         "meaning": "ڈرانے والا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Baqarah 2:119",
+          "text": "إنا أرسلناك بالحق بشيرا ونذيرا"
+        },
+        {
+          "type": "quran",
+          "source": "Saba 34:28",
+          "text": "وما أرسلناك إلا كافة للناس بشيرا ونذيرا"
+        },
+        {
+          "type": "quran",
+          "source": "Al-Ahzab 33:45",
+          "text": "يا أيها النبي إنا أرسلناك شاهدا ومبشرا ونذيرا"
+        },
+        {
+          "type": "quran",
+          "source": "Al-A'raf 7:188",
+          "text": "إن أنا إلا نذير وبشير لقوم يؤمنون"
+        }
+      ]
     },
     {
       "number": 14,
@@ -154,7 +295,14 @@
       },
       "ur": {
         "meaning": "بلانے والا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Ahzab 33:46",
+          "text": "وداعيا إلى الله بإذنه وسراجا منيرا"
+        }
+      ]
     },
     {
       "number": 15,
@@ -165,7 +313,8 @@
       },
       "ur": {
         "meaning": "شفا دینے والا"
-      }
+      },
+      "references": []
     },
     {
       "number": 16,
@@ -175,8 +324,15 @@
         "meaning": "He Who Guides Right"
       },
       "ur": {
-        "meaning": "ہادی"
-      }
+        "meaning": "ہدایت دینے والا"
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Ash-Shura 42:52",
+          "text": "وإنك لتهدي إلى صراط مستقيم"
+        }
+      ]
     },
     {
       "number": 17,
@@ -187,7 +343,19 @@
       },
       "ur": {
         "meaning": "ہدایت والا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Fath 48:2",
+          "text": "ويهديك صراطا مستقيما"
+        },
+        {
+          "type": "quran",
+          "source": "Ad-Duha 93:7",
+          "text": "ووجدك ضالا فهدى"
+        }
+      ]
     },
     {
       "number": 18,
@@ -197,8 +365,15 @@
         "meaning": "He Who Wipes Out (Disbelief)"
       },
       "ur": {
-        "meaning": "محو کرنے والا"
-      }
+        "meaning": "(کفر کو) مٹانے والا"
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Sahih al-Bukhari 3532, 4896; Sahih Muslim 2354",
+          "text": "أنا محمد وأنا أحمد وأنا الماحي الذي يمحو الله بي الكفر وأنا الحاشر الذي يحشر الناس على قدمي وأنا العاقب"
+        }
+      ]
     },
     {
       "number": 19,
@@ -208,8 +383,9 @@
         "meaning": "He Who Saves, Deliverer"
       },
       "ur": {
-        "meaning": "نجات والا"
-      }
+        "meaning": "نجات دینے والا"
+      },
+      "references": []
     },
     {
       "number": 20,
@@ -220,7 +396,14 @@
       },
       "ur": {
         "meaning": "منع کرنے والا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-A'raf 7:157",
+          "text": "الذين يتبعون الرسول النبي الأمي ... يأمرهم بالمعروف وينهاهم عن المنكر"
+        }
+      ]
     },
     {
       "number": 21,
@@ -231,7 +414,19 @@
       },
       "ur": {
         "meaning": "رسول"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Fath 48:29",
+          "text": "محمد رسول الله"
+        },
+        {
+          "type": "quran",
+          "source": "Al-Ahzab 33:40",
+          "text": "ما كان محمد أبا أحد من رجالكم ولكن رسول الله وخاتم النبيين"
+        }
+      ]
     },
     {
       "number": 22,
@@ -242,7 +437,19 @@
       },
       "ur": {
         "meaning": "نبی"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Anfal 8:64",
+          "text": "يا أيها النبي حسبك الله"
+        },
+        {
+          "type": "quran",
+          "source": "Al-Ahzab 33:45",
+          "text": "يا أيها النبي إنا أرسلناك شاهدا ومبشرا ونذيرا"
+        }
+      ]
     },
     {
       "number": 23,
@@ -252,8 +459,20 @@
         "meaning": "Unlettered"
       },
       "ur": {
-        "meaning": "ان پڑھ"
-      }
+        "meaning": "امی (جس نے کسی انسان سے پڑھنا لکھنا نہیں سیکھا)"
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-A'raf 7:157",
+          "text": "الذين يتبعون الرسول النبي الأمي ... يأمرهم بالمعروف وينهاهم عن المنكر"
+        },
+        {
+          "type": "quran",
+          "source": "Al-A'raf 7:158",
+          "text": "فآمنوا بالله ورسوله النبي الأمي"
+        }
+      ]
     },
     {
       "number": 24,
@@ -264,7 +483,8 @@
       },
       "ur": {
         "meaning": "تہامی"
-      }
+      },
+      "references": []
     },
     {
       "number": 25,
@@ -275,7 +495,14 @@
       },
       "ur": {
         "meaning": "ہاشمی"
-      }
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Sahih Muslim 2276",
+          "text": "إن الله اصطفى كنانة من ولد إسماعيل واصطفى قريشا من كنانة واصطفى من قريش بني هاشم واصطفاني من بني هاشم"
+        }
+      ]
     },
     {
       "number": 26,
@@ -286,7 +513,8 @@
       },
       "ur": {
         "meaning": "ابطح والا"
-      }
+      },
+      "references": []
     },
     {
       "number": 27,
@@ -296,8 +524,15 @@
         "meaning": "Noble, Dear"
       },
       "ur": {
-        "meaning": "غالب"
-      }
+        "meaning": "عزت والا، پیارا"
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "At-Tawbah 9:128",
+          "text": "لقد جاءكم رسول من أنفسكم عزيز عليه ما عنتم حريص عليكم بالمؤمنين رءوف رحيم"
+        }
+      ]
     },
     {
       "number": 28,
@@ -308,7 +543,14 @@
       },
       "ur": {
         "meaning": "حرص کرنے والا (لوگوں کے ایمان کے لیے)"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "At-Tawbah 9:128",
+          "text": "لقد جاءكم رسول من أنفسكم عزيز عليه ما عنتم حريص عليكم بالمؤمنين رءوف رحيم"
+        }
+      ]
     },
     {
       "number": 29,
@@ -319,7 +561,14 @@
       },
       "ur": {
         "meaning": "نرم دل"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "At-Tawbah 9:128",
+          "text": "لقد جاءكم رسول من أنفسكم عزيز عليه ما عنتم حريص عليكم بالمؤمنين رءوف رحيم"
+        }
+      ]
     },
     {
       "number": 30,
@@ -330,7 +579,14 @@
       },
       "ur": {
         "meaning": "رحم والا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "At-Tawbah 9:128",
+          "text": "لقد جاءكم رسول من أنفسكم عزيز عليه ما عنتم حريص عليكم بالمؤمنين رءوف رحيم"
+        }
+      ]
     },
     {
       "number": 31,
@@ -341,7 +597,15 @@
       },
       "ur": {
         "meaning": "طٰہٰ"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Ta-Ha 20:1",
+          "text": "طه",
+          "note": "Opening letters of the surah; some exegetes held it is a name of the Prophet."
+        }
+      ]
     },
     {
       "number": 32,
@@ -351,8 +615,15 @@
         "meaning": "Elect"
       },
       "ur": {
-        "meaning": "چنا ہوا"
-      }
+        "meaning": "منتخب"
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-i-Imran 3:179",
+          "text": "ولكن الله يجتبي من رسله من يشاء"
+        }
+      ]
     },
     {
       "number": 33,
@@ -363,7 +634,15 @@
       },
       "ur": {
         "meaning": "طٰسٓ"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "An-Naml 27:1",
+          "text": "طس",
+          "note": "Opening letters of the surah; 26:1 and 28:1 open with Ta-Sin-Mim."
+        }
+      ]
     },
     {
       "number": 34,
@@ -373,8 +652,15 @@
         "meaning": "Content, Approved"
       },
       "ur": {
-        "meaning": "برگزیدہ"
-      }
+        "meaning": "پسندیدہ"
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Jinn 72:26-27",
+          "text": "فلا يظهر على غيبه أحدا إلا من ارتضى من رسول"
+        }
+      ]
     },
     {
       "number": 35,
@@ -385,7 +671,15 @@
       },
       "ur": {
         "meaning": "حٰمٓ"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Ghafir 40:1",
+          "text": "حم",
+          "note": "Opening letters of Surahs 40-46 (42 opens with Ha-Mim, Ayn-Sin-Qaf)."
+        }
+      ]
     },
     {
       "number": 36,
@@ -396,7 +690,19 @@
       },
       "ur": {
         "meaning": "چنا ہوا"
-      }
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Sahih Muslim 2276",
+          "text": "إن الله اصطفى كنانة من ولد إسماعيل واصطفى قريشا من كنانة واصطفى من قريش بني هاشم واصطفاني من بني هاشم"
+        },
+        {
+          "type": "quran",
+          "source": "Al-Hajj 22:75",
+          "text": "الله يصطفي من الملائكة رسلا ومن الناس"
+        }
+      ]
     },
     {
       "number": 37,
@@ -407,7 +713,15 @@
       },
       "ur": {
         "meaning": "یٰسٓ"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Ya-Sin 36:1",
+          "text": "يس",
+          "note": "Opening letters of the surah; some exegetes held it is a name of the Prophet."
+        }
+      ]
     },
     {
       "number": 38,
@@ -417,8 +731,15 @@
         "meaning": "Worthier, Most Worthy"
       },
       "ur": {
-        "meaning": "بہتر"
-      }
+        "meaning": "سب سے زیادہ حق دار"
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Ahzab 33:6",
+          "text": "النبي أولى بالمؤمنين من أنفسهم"
+        }
+      ]
     },
     {
       "number": 39,
@@ -429,7 +750,14 @@
       },
       "ur": {
         "meaning": "کملی والا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Muzzammil 73:1",
+          "text": "يا أيها المزمل"
+        }
+      ]
     },
     {
       "number": 40,
@@ -440,7 +768,14 @@
       },
       "ur": {
         "meaning": "دوست"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Ma'idah 5:55",
+          "text": "إنما وليكم الله ورسوله والذين آمنوا"
+        }
+      ]
     },
     {
       "number": 41,
@@ -451,7 +786,14 @@
       },
       "ur": {
         "meaning": "چادر اوڑھنے والا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Muddaththir 74:1",
+          "text": "يا أيها المدثر"
+        }
+      ]
     },
     {
       "number": 42,
@@ -462,18 +804,31 @@
       },
       "ur": {
         "meaning": "مضبوط"
-      }
+      },
+      "references": []
     },
     {
       "number": 43,
       "name": "مُصَدِّق",
       "transliteration": "Muṣaddiq",
       "en": {
-        "meaning": "Who Declares for True"
+        "meaning": "Confirmer of the Truth"
       },
       "ur": {
-        "meaning": "سچ بولنے والا"
-      }
+        "meaning": "تصدیق کرنے والا"
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Baqarah 2:101",
+          "text": "ولما جاءهم رسول من عند الله مصدق لما معهم"
+        },
+        {
+          "type": "quran",
+          "source": "Al-i-Imran 3:81",
+          "text": "ثم جاءكم رسول مصدق لما معكم"
+        }
+      ]
     },
     {
       "number": 44,
@@ -484,7 +839,8 @@
       },
       "ur": {
         "meaning": "پاک"
-      }
+      },
+      "references": []
     },
     {
       "number": 45,
@@ -495,7 +851,8 @@
       },
       "ur": {
         "meaning": "مدد دینے والا"
-      }
+      },
+      "references": []
     },
     {
       "number": 46,
@@ -506,7 +863,19 @@
       },
       "ur": {
         "meaning": "مدد دیا گیا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Fath 48:3",
+          "text": "وينصرك الله نصرا عزيزا"
+        },
+        {
+          "type": "hadith",
+          "source": "Sahih al-Bukhari 335; Sahih Muslim 521",
+          "text": "نصرت بالرعب مسيرة شهر"
+        }
+      ]
     },
     {
       "number": 47,
@@ -517,7 +886,15 @@
       },
       "ur": {
         "meaning": "چراغ"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "An-Nur 24:35",
+          "text": "مثل نوره كمشكاة فيها مصباح",
+          "note": "Some exegetes read the 'lamp' in this parable as the Prophet's light; this is an interpretation, not the plain meaning."
+        }
+      ]
     },
     {
       "number": 48,
@@ -528,7 +905,14 @@
       },
       "ur": {
         "meaning": "حکم دینے والا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-A'raf 7:157",
+          "text": "الذين يتبعون الرسول النبي الأمي ... يأمرهم بالمعروف وينهاهم عن المنكر"
+        }
+      ]
     },
     {
       "number": 49,
@@ -539,18 +923,26 @@
       },
       "ur": {
         "meaning": "حجاز والا"
-      }
+      },
+      "references": []
     },
     {
       "number": 50,
       "name": "نِزَارِيّ",
       "transliteration": "Nizārī",
       "en": {
-        "meaning": "From the Tribe of Nizar"
+        "meaning": "Descendant of Nizar"
       },
       "ur": {
-        "meaning": "مضر بن نزار کی اولاد سے"
-      }
+        "meaning": "نزار کی اولاد سے"
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Sahih al-Bukhari, Book of the Merits of the Ansar, chapter 'The Sending of the Prophet' (before hadith 3851)",
+          "note": "Chapter heading gives his lineage: ... ibn Ilyas ibn Mudar ibn Nizar ibn Ma'add ibn Adnan."
+        }
+      ]
     },
     {
       "number": 51,
@@ -561,7 +953,14 @@
       },
       "ur": {
         "meaning": "قریشی"
-      }
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Sahih Muslim 2276",
+          "text": "إن الله اصطفى كنانة من ولد إسماعيل واصطفى قريشا من كنانة واصطفى من قريش بني هاشم واصطفاني من بني هاشم"
+        }
+      ]
     },
     {
       "number": 52,
@@ -571,8 +970,15 @@
         "meaning": "From the Tribe of Mudar"
       },
       "ur": {
-        "meaning": "مضر والا"
-      }
+        "meaning": "مضر کی اولاد سے"
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Sahih al-Bukhari, Book of the Merits of the Ansar, chapter 'The Sending of the Prophet' (before hadith 3851)",
+          "note": "Chapter heading gives his lineage: ... ibn Ilyas ibn Mudar ibn Nizar ibn Ma'add ibn Adnan."
+        }
+      ]
     },
     {
       "number": 53,
@@ -582,8 +988,15 @@
         "meaning": "The Prophet of Repentance"
       },
       "ur": {
-        "meaning": "متوجہ ہونے والا نبی"
-      }
+        "meaning": "توبہ والا نبی"
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Sahih Muslim 2355",
+          "text": "أنا محمد وأحمد والمقفي والحاشر ونبي التوبة ونبي الرحمة"
+        }
+      ]
     },
     {
       "number": 54,
@@ -593,8 +1006,9 @@
         "meaning": "Preserver"
       },
       "ur": {
-        "meaning": "یاد رکھنے والا"
-      }
+        "meaning": "حفاظت کرنے والا"
+      },
+      "references": []
     },
     {
       "number": 55,
@@ -605,7 +1019,8 @@
       },
       "ur": {
         "meaning": "کامل (پورا)"
-      }
+      },
+      "references": []
     },
     {
       "number": 56,
@@ -616,7 +1031,14 @@
       },
       "ur": {
         "meaning": "سچا"
-      }
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Sahih al-Bukhari 3208; Sahih Muslim 2643",
+          "text": "حدثنا رسول الله صلى الله عليه وسلم وهو الصادق المصدوق"
+        }
+      ]
     },
     {
       "number": 57,
@@ -627,7 +1049,19 @@
       },
       "ur": {
         "meaning": "امانت دار"
-      }
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Sahih al-Bukhari 4351; Sahih Muslim 1064",
+          "text": "ألا تأمنوني وأنا أمين من في السماء"
+        },
+        {
+          "type": "sirah",
+          "source": "Sirat Ibn Hisham",
+          "note": "Known as al-Amin (the Trustworthy) among Quraysh before prophethood."
+        }
+      ]
     },
     {
       "number": 58,
@@ -638,7 +1072,19 @@
       },
       "ur": {
         "meaning": "اللہ کا بندہ"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Jinn 72:19",
+          "text": "وأنه لما قام عبد الله يدعوه"
+        },
+        {
+          "type": "quran",
+          "source": "Al-Isra 17:1",
+          "text": "سبحان الذي أسرى بعبده ليلا"
+        }
+      ]
     },
     {
       "number": 59,
@@ -649,7 +1095,15 @@
       },
       "ur": {
         "meaning": "اللہ سے کلام کرنے والا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "An-Najm 53:10",
+          "text": "فأوحى إلى عبده ما أوحى",
+          "note": "Refers to the Mi'raj. In the Quran (4:164) 'Kalimullah' is the title of Prophet Musa."
+        }
+      ]
     },
     {
       "number": 60,
@@ -659,19 +1113,28 @@
         "meaning": "Beloved of Allah"
       },
       "ur": {
-        "meaning": "اللہ کا دوست"
-      }
+        "meaning": "اللہ کا محبوب"
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Jami' at-Tirmidhi 3616",
+          "text": "ألا وأنا حبيب الله ولا فخر",
+          "note": "Graded weak (gharib) by at-Tirmidhi."
+        }
+      ]
     },
     {
       "number": 61,
       "name": "نَجِيُّ الله",
       "transliteration": "Najiyyullāh",
       "en": {
-        "meaning": "Allah's Intimate Friend"
+        "meaning": "Allah's Confidant"
       },
       "ur": {
         "meaning": "اللہ کا رازدار"
-      }
+      },
+      "references": []
     },
     {
       "number": 62,
@@ -682,7 +1145,8 @@
       },
       "ur": {
         "meaning": "اللہ کا مخلص دوست"
-      }
+      },
+      "references": []
     },
     {
       "number": 63,
@@ -693,7 +1157,19 @@
       },
       "ur": {
         "meaning": "انبیاء کو ختم کرنے والا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Ahzab 33:40",
+          "text": "ما كان محمد أبا أحد من رجالكم ولكن رسول الله وخاتم النبيين"
+        },
+        {
+          "type": "hadith",
+          "source": "Sahih al-Bukhari 3535; Sahih Muslim 2286",
+          "text": "فأنا اللبنة وأنا خاتم النبيين"
+        }
+      ]
     },
     {
       "number": 64,
@@ -703,8 +1179,9 @@
         "meaning": "Respected, Noble"
       },
       "ur": {
-        "meaning": "کافی"
-      }
+        "meaning": "عالی نسب، معزز"
+      },
+      "references": []
     },
     {
       "number": 65,
@@ -714,8 +1191,9 @@
         "meaning": "Responding, Answering"
       },
       "ur": {
-        "meaning": "قبول کرنے والا"
-      }
+        "meaning": "جواب دینے والا"
+      },
+      "references": []
     },
     {
       "number": 66,
@@ -726,7 +1204,14 @@
       },
       "ur": {
         "meaning": "شکر گزار"
-      }
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Sahih al-Bukhari 4836; Sahih Muslim 2819",
+          "text": "أفلا أكون عبدا شكورا"
+        }
+      ]
     },
     {
       "number": 67,
@@ -736,8 +1221,9 @@
         "meaning": "Adopting a Middle Course"
       },
       "ur": {
-        "meaning": "میانہ روی سکھلانے والا"
-      }
+        "meaning": "میانہ رو"
+      },
+      "references": []
     },
     {
       "number": 68,
@@ -748,7 +1234,15 @@
       },
       "ur": {
         "meaning": "مہربانی والا رسول"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Anbiya 21:107",
+          "text": "وما أرسلناك إلا رحمة للعالمين",
+          "note": "Supports the meaning; the exact phrase 'Rasul ar-Rahmah' is not in this verse."
+        }
+      ]
     },
     {
       "number": 69,
@@ -759,7 +1253,8 @@
       },
       "ur": {
         "meaning": "طاقت والا"
-      }
+      },
+      "references": []
     },
     {
       "number": 70,
@@ -770,7 +1265,14 @@
       },
       "ur": {
         "meaning": "خبر رکھنے والا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-A'raf 7:187",
+          "text": "يسألونك كأنك حفي عنها"
+        }
+      ]
     },
     {
       "number": 71,
@@ -780,8 +1282,9 @@
         "meaning": "Trusted"
       },
       "ur": {
-        "meaning": "امن والا"
-      }
+        "meaning": "جس پر بھروسہ کیا جائے"
+      },
+      "references": []
     },
     {
       "number": 72,
@@ -791,8 +1294,9 @@
         "meaning": "Well-Known"
       },
       "ur": {
-        "meaning": "علم والا"
-      }
+        "meaning": "جانا پہچانا"
+      },
+      "references": []
     },
     {
       "number": 73,
@@ -802,8 +1306,20 @@
         "meaning": "Truth"
       },
       "ur": {
-        "meaning": "سچا"
-      }
+        "meaning": "حق"
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Sahih al-Bukhari 1120; Sahih Muslim 769",
+          "text": "والنبيون حق ومحمد حق"
+        },
+        {
+          "type": "quran",
+          "source": "Az-Zukhruf 43:29",
+          "text": "حتى جاءهم الحق ورسول مبين"
+        }
+      ]
     },
     {
       "number": 74,
@@ -813,8 +1329,20 @@
         "meaning": "Clear, Evident"
       },
       "ur": {
-        "meaning": "ظاہر"
-      }
+        "meaning": "واضح بیان کرنے والا"
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Hijr 15:89",
+          "text": "وقل إني أنا النذير المبين"
+        },
+        {
+          "type": "quran",
+          "source": "Az-Zukhruf 43:29",
+          "text": "حتى جاءهم الحق ورسول مبين"
+        }
+      ]
     },
     {
       "number": 75,
@@ -825,7 +1353,8 @@
       },
       "ur": {
         "meaning": "تابع دار"
-      }
+      },
+      "references": []
     },
     {
       "number": 76,
@@ -836,7 +1365,14 @@
       },
       "ur": {
         "meaning": "اول"
-      }
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Sahih Muslim 2278",
+          "text": "أنا سيد ولد آدم يوم القيامة وأول من ينشق عنه القبر وأول شافع وأول مشفع"
+        }
+      ]
     },
     {
       "number": 77,
@@ -846,8 +1382,15 @@
         "meaning": "Last"
       },
       "ur": {
-        "meaning": "پیچھے"
-      }
+        "meaning": "آخری"
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Sahih al-Bukhari 238; Sahih Muslim 855",
+          "text": "نحن الآخرون السابقون يوم القيامة"
+        }
+      ]
     },
     {
       "number": 78,
@@ -858,7 +1401,8 @@
       },
       "ur": {
         "meaning": "ظاہر"
-      }
+      },
+      "references": []
     },
     {
       "number": 79,
@@ -869,7 +1413,8 @@
       },
       "ur": {
         "meaning": "پوشیدہ"
-      }
+      },
+      "references": []
     },
     {
       "number": 80,
@@ -880,7 +1425,14 @@
       },
       "ur": {
         "meaning": "یتیم"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Ad-Duha 93:6",
+          "text": "ألم يجدك يتيما فآوى"
+        }
+      ]
     },
     {
       "number": 81,
@@ -891,7 +1443,14 @@
       },
       "ur": {
         "meaning": "سخی"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Haqqah 69:40",
+          "text": "إنه لقول رسول كريم"
+        }
+      ]
     },
     {
       "number": 82,
@@ -902,7 +1461,8 @@
       },
       "ur": {
         "meaning": "حکمت والا"
-      }
+      },
+      "references": []
     },
     {
       "number": 83,
@@ -913,7 +1473,14 @@
       },
       "ur": {
         "meaning": "سردار"
-      }
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Sahih Muslim 2278",
+          "text": "أنا سيد ولد آدم يوم القيامة وأول من ينشق عنه القبر وأول شافع وأول مشفع"
+        }
+      ]
     },
     {
       "number": 84,
@@ -924,7 +1491,14 @@
       },
       "ur": {
         "meaning": "چراغ"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Ahzab 33:46",
+          "text": "وداعيا إلى الله بإذنه وسراجا منيرا"
+        }
+      ]
     },
     {
       "number": 85,
@@ -935,7 +1509,14 @@
       },
       "ur": {
         "meaning": "چمکتا ہوا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Ahzab 33:46",
+          "text": "وداعيا إلى الله بإذنه وسراجا منيرا"
+        }
+      ]
     },
     {
       "number": 86,
@@ -946,7 +1527,8 @@
       },
       "ur": {
         "meaning": "قابل عزت"
-      }
+      },
+      "references": []
     },
     {
       "number": 87,
@@ -957,7 +1539,8 @@
       },
       "ur": {
         "meaning": "عزت والا"
-      }
+      },
+      "references": []
     },
     {
       "number": 88,
@@ -968,7 +1551,19 @@
       },
       "ur": {
         "meaning": "خوشخبری سنانے والا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Ahzab 33:45",
+          "text": "يا أيها النبي إنا أرسلناك شاهدا ومبشرا ونذيرا"
+        },
+        {
+          "type": "quran",
+          "source": "Al-Fath 48:8",
+          "text": "إنا أرسلناك شاهدا ومبشرا ونذيرا"
+        }
+      ]
     },
     {
       "number": 89,
@@ -979,7 +1574,14 @@
       },
       "ur": {
         "meaning": "نصیحت کرنے والا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Ghashiyah 88:21",
+          "text": "فذكر إنما أنت مذكر"
+        }
+      ]
     },
     {
       "number": 90,
@@ -990,7 +1592,14 @@
       },
       "ur": {
         "meaning": "پاکیزہ"
-      }
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Sahih Muslim 162",
+          "note": "The opening and washing of his chest with Zamzam water."
+        }
+      ]
     },
     {
       "number": 91,
@@ -1001,7 +1610,8 @@
       },
       "ur": {
         "meaning": "قریب"
-      }
+      },
+      "references": []
     },
     {
       "number": 92,
@@ -1011,8 +1621,15 @@
         "meaning": "Close Friend"
       },
       "ur": {
-        "meaning": "دوست جانی"
-      }
+        "meaning": "جانی دوست"
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Sahih Muslim 532",
+          "text": "فإن الله تعالى قد اتخذني خليلا كما اتخذ إبراهيم خليلا"
+        }
+      ]
     },
     {
       "number": 93,
@@ -1023,7 +1640,8 @@
       },
       "ur": {
         "meaning": "دعوت دیا ہوا"
-      }
+      },
+      "references": []
     },
     {
       "number": 94,
@@ -1034,7 +1652,14 @@
       },
       "ur": {
         "meaning": "سخی"
-      }
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Sahih al-Bukhari 6; Sahih Muslim 2308",
+          "text": "كان رسول الله صلى الله عليه وسلم أجود الناس"
+        }
+      ]
     },
     {
       "number": 95,
@@ -1045,7 +1670,15 @@
       },
       "ur": {
         "meaning": "ختم کرنے والا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Ahzab 33:40",
+          "text": "وخاتم النبيين",
+          "note": "Read 'Khatim' by all the canonical readers except Asim, who reads 'Khatam'."
+        }
+      ]
     },
     {
       "number": 96,
@@ -1056,7 +1689,14 @@
       },
       "ur": {
         "meaning": "عدل کرنے والا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Ash-Shura 42:15",
+          "text": "وأمرت لأعدل بينكم"
+        }
+      ]
     },
     {
       "number": 97,
@@ -1067,18 +1707,31 @@
       },
       "ur": {
         "meaning": "شہرت والا"
-      }
+      },
+      "references": []
     },
     {
       "number": 98,
       "name": "شَهِيد",
       "transliteration": "Shahīd",
       "en": {
-        "meaning": "Witnessing, Martyr"
+        "meaning": "Witness"
       },
       "ur": {
         "meaning": "گواہ"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Baqarah 2:143",
+          "text": "ويكون الرسول عليكم شهيدا"
+        },
+        {
+          "type": "quran",
+          "source": "An-Nisa 4:41",
+          "text": "وجئنا بك على هؤلاء شهيدا"
+        }
+      ]
     },
     {
       "number": 99,
@@ -1088,8 +1741,16 @@
         "meaning": "The Messenger of the Great Battles"
       },
       "ur": {
-        "meaning": "رسول الملاحم"
-      }
+        "meaning": "معرکوں والا رسول"
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Ash-Shama'il al-Muhammadiyyah (at-Tirmidhi), chapter on the names of the Prophet; Musnad Ahmad (from Hudhayfah)",
+          "text": "أنا محمد وأنا أحمد ونبي الرحمة ونبي التوبة وأنا المقفي وأنا الحاشر ونبي الملاحم",
+          "note": "The hadith says 'Nabi al-Malahim', not 'Rasul al-Malahim'."
+        }
+      ]
     }
   ],
   "additional": [
@@ -1101,7 +1762,8 @@
       },
       "ur": {
         "meaning": "راحت والا رسول"
-      }
+      },
+      "references": []
     },
     {
       "name": "نَبِيُّ الرَّحْمَة",
@@ -1111,7 +1773,14 @@
       },
       "ur": {
         "meaning": "مہربانی والا نبی"
-      }
+      },
+      "references": [
+        {
+          "type": "hadith",
+          "source": "Sahih Muslim 2355",
+          "text": "أنا محمد وأحمد والمقفي والحاشر ونبي التوبة ونبي الرحمة"
+        }
+      ]
     },
     {
       "name": "خَاتَمُ الرُّسُل",
@@ -1121,7 +1790,14 @@
       },
       "ur": {
         "meaning": "رسولوں کو ختم کرنے والا"
-      }
+      },
+      "references": [
+        {
+          "type": "quran",
+          "source": "Al-Ahzab 33:40",
+          "text": "ما كان محمد أبا أحد من رجالكم ولكن رسول الله وخاتم النبيين"
+        }
+      ]
     }
   ]
 }
