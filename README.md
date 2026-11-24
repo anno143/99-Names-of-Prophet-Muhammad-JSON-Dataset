@@ -20,6 +20,7 @@ This dataset powers the Names of the Prophet ﷺ section of **[Fajr: Prayer Alar
 - Scholarly transliteration (e.g. `Muḥammad`, `Muṣṭafā`, `Khātam al-Anbiyāʾ`)
 - English meaning
 - **Urdu meaning (اردو)**
+- **References** to the Quran verses and hadith where a name is mentioned (70 of 99 names)
 - 3 additional names that appear in the Urdu source, kept in a separate `additional` array
 - Plain UTF-8 JSON: Arabic and Urdu text is stored as readable characters, not escaped sequences
 
@@ -44,8 +45,11 @@ This dataset powers the Names of the Prophet ﷺ section of **[Fajr: Prayer Alar
         "meaning": "Highly Praised"
       },
       "ur": {
-        "meaning": "تعریف والا"
-      }
+        "meaning": "بہت زیادہ تعریف کیا گیا"
+      },
+      "references": [
+        { "type": "quran", "source": "Al-Fath 48:29", "text": "محمد رسول الله" }
+      ]
     }
   ],
   "additional": [
@@ -66,6 +70,7 @@ This dataset powers the Names of the Prophet ﷺ section of **[Fajr: Prayer Alar
 | `transliteration` | string | Latin transliteration |
 | `en.meaning` | string | English meaning |
 | `ur.meaning` | string | Urdu meaning |
+| `references` | array | Places where the name (or its wording) is mentioned: `type` (`quran` / `hadith` / `sirah`), `source`, optional Arabic `text` excerpt, optional `note`. Empty when no direct text was found |
 | `additional` | array | Extra names found in the Urdu source but not in the 99 list (no `number`) |
 
 ## Usage
@@ -118,6 +123,7 @@ print(names.first['ur']['meaning']);
 - #50 (Nizārī) has no English meaning in the source; "From the Tribe of Nizar" was added.
 - Small spelling fixes were made to the English meanings (e.g. "distributer" → "Distributor", "Externa" → "External").
 - Transliterations were standardized to one consistent style.
+- A translation review corrected 33 English and Urdu meanings and added references. See [REVIEW.md](REVIEW.md) for every change, its reason, and the open issues that were noted but not changed.
 
 ## A Note on the List
 
